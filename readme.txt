@@ -10,4 +10,4 @@ sys.path.append('E:/scripts_from_Git') #path where the axb module folder is loca
 
 5. Stay in touch for feedback and proposals cybergradus@gmail.com, telegram @cybergradus
 
-version 2024.10.14.00
+version 2024.10.28.00
